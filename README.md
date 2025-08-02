@@ -66,8 +66,8 @@ Hi! I'm **Krushna Wairale**, a passionate creator with skills in **software deve
 
 ## 🔗 Live Project Link
 
-👉 **[Live Portfolio Link](https://your-portfolio-link.com)**
-👉 **[GitHub Repository Link](https://your-portfolio-link.com)**
+👉 **[Live Portfolio Link](https://krushna-wairale.github.io/Portfolio-Project/)**
+👉 **[GitHub Repository Link](https://github.com/Krushna-Wairale/Portfolio-Project)**
 
 ---
 
